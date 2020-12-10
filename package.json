@@ -1,0 +1,23 @@
+{
+  "name": "recruitment",
+  "version": "1.0.0",
+  "description": "Documentation website for the recruitment plugin",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fytinnovations/oc-recruitment.git"
+  },
+  "author": "FYT Innnovations",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fytinnovations/oc-recruitment/issues"
+  },
+  "homepage": "https://github.com/fytinnovations/oc-recruitment#readme",
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
