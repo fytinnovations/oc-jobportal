@@ -20,6 +20,13 @@ module.exports = {
                 children: [
                     "/components/joblist",
                     "/components/jobdetails",
+                    "/components/jobform",
+                    "/components/jobspostedlist",
+                    "/components/jobsappliedlist",
+                    "/components/jobapplications",
+                    "/components/companyform",
+                    "/components/companiescreatedlist",
+                    "/components/applicationdetails",
                 ]
             },
             ['features', 'Upcoming Features !'],
