@@ -2,20 +2,21 @@
 sidebarDepth: 3
 ---
 
-## JobList
+# JobList
 
 This component displays a list of published jobs along with filters by category and pagination for those long lists.
 
-### Properties
+## Properties
 
 | Value       | Description                                                                                                          | Default | Required |
 |-------------|----------------------------------------------------------------------------------------------------------------------|---------|----------|
 | detailsPage | Name of the job details page file for the full job display.  This property is used by the default component partial. | job/details     | Yes       |
 | jobsPerPage | Max number of job posts to display on the page. If it exceeds pagination is generated                               | 5       | Yes       |
 
-#### Sample Page
+## Sample Page
 
-```
+### Page Settings
+```ini
 title = "Jobs"
 url = "/jobs"
 layout = "default"
@@ -25,7 +26,9 @@ is_hidden = 0
 [jobList]
 detailsPage = "job/details"
 jobsPerPage = 4
-==
+```
+### Introductory Section
+```html
 <div class="jumbotron title-js">
     <div class="container">
         <div class="row">
@@ -36,9 +39,10 @@ jobsPerPage = 4
         </div>
     </div>
 </div>
-
+```
+### Displaying the component
+```twig
 <div class="container">
     {% component 'jobList' %}
 </div>
-
 ```
