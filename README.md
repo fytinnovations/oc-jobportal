@@ -1,11 +1,11 @@
-# Recruitment
+# Job Portal
 
-## Create your own recruitment portal
+## Create your own jobportal portal
 
-This repository holds raw documentation and issues for the the recruitment plugin.
+This repository holds raw documentation and issues for the the jobportal plugin.
 
-For documentation please visit [Recruitment official documentation](https://oc-recruitment.fytinnovations.com)
+For documentation please visit [Job Portal official documentation](https://oc-jobportal.fytinnovations.com)
 
-[Create](https://github.com/fytinnovations/oc-recruitment/issues) issues for feature requests and support.
+[Create](https://github.com/fytinnovations/oc-jobportal/issues) issues for feature requests and support.
 
-Install the plugin from the OctoberCMS [marketplace](https://octobercms.com/plugin/fytinnovations-recruitment)
+Install the plugin from the OctoberCMS [marketplace](https://octobercms.com/plugin/fytinnovations-jobportal)

@@ -4,7 +4,7 @@ sidebarDepth: 3
 
 # Configuration
 
-The plugin contains some configuration settings which you may find useful. If you wish to request some additional settings you can put a [feature request](https://github.com/fytinnovations/oc-recruitment/issues)
+The plugin contains some configuration settings which you may find useful. If you wish to request some additional settings you can put a [feature request](https://github.com/fytinnovations/oc-jobportal/issues)
 
 ## Application Notification via Mail
 

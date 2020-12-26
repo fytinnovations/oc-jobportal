@@ -1,7 +1,7 @@
 {
-  "name": "recruitment",
+  "name": "jobportal",
   "version": "1.0.0",
-  "description": "Documentation website for the recruitment plugin",
+  "description": "Documentation website for the jobportal plugin",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fytinnovations/oc-recruitment.git"
+    "url": "git+https://github.com/fytinnovations/oc-jobportal.git"
   },
   "author": "FYT Innnovations",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fytinnovations/oc-recruitment/issues"
+    "url": "https://github.com/fytinnovations/oc-jobportal/issues"
   },
-  "homepage": "https://github.com/fytinnovations/oc-recruitment#readme",
+  "homepage": "https://github.com/fytinnovations/oc-jobportal#readme",
   "devDependencies": {
     "vuepress": "^1.7.1"
   }

@@ -1,12 +1,12 @@
 ---
 home: true
-heroText: Recruitment
+heroText: Job Portal
 heroImage: /assets/img/banner.png
 actionText: Get Started →
 actionLink: /getting-started/installation
 features:
 - title: Easy Setup with no overhead configurations
-  details: If you want to build your own recruitment portal in no time you are in the right place.
+  details: If you want to build your own jobportal portal in no time you are in the right place.
 - title: Add Dynamics to your Job posts
   details: Easily add skills required, Department, No of positions open, and job description to a job post. Create categories, work schedule, and add a location to job posts.
 - title: Total Control with Handy Notifications
@@ -16,9 +16,9 @@ footer: Copyright © 2018-present Fytinnovations
 
 ## About
 
-Recruitment plugin helps you to easily create your own recruitment portal. With the help of recruitment plugin you can allow users to post jobs and apply to them. You can monitor the process from the backend and track their statuses.
+Job Portal plugin helps you to easily create your own jobportal portal. With the help of jobportal plugin you can allow users to post jobs and apply to them. You can monitor the process from the backend and track their statuses.
 
-Plugin comes with notification settings so that the person who is responsible for the recruitment never misses an application.
+Plugin comes with notification settings so that the person who is responsible for the jobportal never misses an application.
 
 ## Requirements
 
@@ -27,5 +27,5 @@ Plugin comes with notification settings so that the person who is responsible fo
 
 ## Links
 
-- [GitHub Documentation](https://github.com/fytinnovations/oc-recruitment) for posting issues and questions
-- [October Marketplace](https://octobercms.com/plugin/fytinnovations-recruitment)
+- [GitHub Documentation](https://github.com/fytinnovations/oc-jobportal) for posting issues and questions
+- [October Marketplace](https://octobercms.com/plugin/fytinnovations-jobportal)
