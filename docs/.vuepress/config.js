@@ -1,7 +1,7 @@
 module.exports = {
     base: "/",
     title: "Job Portal",
-    description: "Create your own jobportal portal",
+    description: "Create your very own job portal and connect employers and talents.",
     head: [
         ['link', { rel: 'icon', href: '/assets/img/logo.png' }]
     ],
