@@ -2,4 +2,7 @@
 sidebarDepth: 3
 ---
 
-# ApplicationDetails
+# Application Details 
+
+Displays details of a particular job application 
+

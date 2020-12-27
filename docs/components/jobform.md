@@ -2,9 +2,13 @@
 sidebarDepth: 3
 ---
 
-# JobForm
+# Job Form 
 
-This components displays a form through which a user can post a new job or edit his existing jobs. Only logged in users should be able to post jobs. Jobs upon being posted need to be approved from the admin in order to displayed in the jobs list component
+Displays a form through which an employer can post a job 
 
-## Properties
-
+| Property                | Description                                          | Default                                                                                    | Required |
+|-------------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------|----------|
+| redirect                | Page name to redirect to after posting the job       | /account/my-posted-jobs                                                                    | No       |
+| accountPage             | Page to redirect the user from where he can login    | /account                                                                                   | No       |
+| companyFormPage         | Page to redirect the user where he create companies  | /account/create-company                                                                    | No       |
+| jobPostedSuccessMessage | Message to be displayed when the job has been posted | You job has been posted. We will notify you once the job is published after admin approval | Yes      |
